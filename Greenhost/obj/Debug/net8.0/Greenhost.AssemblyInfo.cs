@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Greenhost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdeedac0e1cb63f53777e05f54cbfa2a7603e5f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Greenhost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Greenhost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

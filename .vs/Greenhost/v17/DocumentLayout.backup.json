@@ -1,106 +1,114 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\EXAM2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\helpers\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\helpers\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\helpers\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\greenhost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\greenhost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\greenhost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Migrations\\20250514085316_CreateAppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Greenhost\\Migrations\\20250514085316_CreateAppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\areas\\manage\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\areas\\manage\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\areas\\manage\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\areas\\manage\\viewmodels\\member\\membervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\areas\\manage\\viewmodels\\member\\membervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\areas\\manage\\viewmodels\\member\\membervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\areas\\manage\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\areas\\manage\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\areas\\manage\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\areas\\manage\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\areas\\manage\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\areas\\manage\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\utils\\extentions\\filecreateextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\utils\\extentions\\filecreateextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\utils\\extentions\\filecreateextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\areas\\manage\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\areas\\manage\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\areas\\manage\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Migrations\\20250514045637_CreateMemberTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Greenhost\\Migrations\\20250514045637_CreateMemberTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\i novbe\\source\\repos\\greenhost\\greenhost\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\migrations\\20250514045637_createmembertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\migrations\\20250514045637_createmembertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|c:\\users\\hp\\source\\repos\\exam2\\greenhost\\migrations\\20250514085316_createappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D3C15C-694D-488B-8B77-C57B200B209D}|Greenhost\\Greenhost.csproj|solutionrelative:greenhost\\migrations\\20250514085316_createappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -123,10 +131,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Greenhost\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Greenhost\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:25:12.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Greenhost\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Greenhost\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAgwFIBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T18:10:01.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Greenhost\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Greenhost\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -135,315 +169,292 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LoginVm.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\ViewModels\\LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\ViewModels\\LoginVm.cs",
               "RelativeDocumentMoniker": "Greenhost\\ViewModels\\LoginVm.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\ViewModels\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\ViewModels\\LoginVm.cs",
               "RelativeToolTip": "Greenhost\\ViewModels\\LoginVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:03:37.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T09:03:37.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserRoles.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Helpers\\Enum\\UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Helpers\\Enum\\UserRoles.cs",
               "RelativeDocumentMoniker": "Greenhost\\Helpers\\Enum\\UserRoles.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Helpers\\Enum\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Helpers\\Enum\\UserRoles.cs",
               "RelativeToolTip": "Greenhost\\Helpers\\Enum\\UserRoles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:01:49.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T09:01:49.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "RegisterVm.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\ViewModels\\RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\ViewModels\\RegisterVm.cs",
               "RelativeDocumentMoniker": "Greenhost\\ViewModels\\RegisterVm.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\ViewModels\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\ViewModels\\RegisterVm.cs",
               "RelativeToolTip": "Greenhost\\ViewModels\\RegisterVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:15:26.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T08:15:26.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Greenhost\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Greenhost\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAmwHIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAA2wEIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T08:12:24.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Models\\AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Greenhost\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Models\\AppUser.cs",
               "RelativeToolTip": "Greenhost\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:00:01.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\Member\\Update.cshtml",
-              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Views\\Member\\Update.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\Member\\Update.cshtml",
-              "RelativeToolTip": "Greenhost\\Areas\\Manage\\Views\\Member\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T07:12:14.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MemberController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Controllers\\MemberController.cs",
-              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Controllers\\MemberController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Controllers\\MemberController.cs",
-              "RelativeToolTip": "Greenhost\\Areas\\Manage\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T04:57:39.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T08:00:01.797Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\Member\\Index.cshtml",
-              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Views\\Member\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\Member\\Index.cshtml",
-              "RelativeToolTip": "Greenhost\\Areas\\Manage\\Views\\Member\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\Member\\Update.cshtml",
+              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Views\\Member\\Update.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\Member\\Update.cshtml",
+              "RelativeToolTip": "Greenhost\\Areas\\Manage\\Views\\Member\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T04:58:08.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20250514045637_CreateMemberTable.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Migrations\\20250514045637_CreateMemberTable.cs",
-              "RelativeDocumentMoniker": "Greenhost\\Migrations\\20250514045637_CreateMemberTable.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Migrations\\20250514045637_CreateMemberTable.cs",
-              "RelativeToolTip": "Greenhost\\Migrations\\20250514045637_CreateMemberTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T04:56:37.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Program.cs",
-              "RelativeDocumentMoniker": "Greenhost\\Program.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Program.cs",
-              "RelativeToolTip": "Greenhost\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T04:23:05.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Greenhost\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "Greenhost\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T04:40:23.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Greenhost\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Greenhost\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T08:12:41.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Greenhost",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Greenhost.csproj",
-              "RelativeDocumentMoniker": "Greenhost\\Greenhost.csproj",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Greenhost.csproj",
-              "RelativeToolTip": "Greenhost\\Greenhost.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-14T07:51:52.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250514085316_CreateAppUser.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Migrations\\20250514085316_CreateAppUser.cs",
-              "RelativeDocumentMoniker": "Greenhost\\Migrations\\20250514085316_CreateAppUser.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Migrations\\20250514085316_CreateAppUser.cs",
-              "RelativeToolTip": "Greenhost\\Migrations\\20250514085316_CreateAppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:53:16.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T07:12:14.993Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "MemberVm.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\ViewModels\\Member\\MemberVm.cs",
-              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\ViewModels\\Member\\MemberVm.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\ViewModels\\Member\\MemberVm.cs",
-              "RelativeToolTip": "Greenhost\\Areas\\Manage\\ViewModels\\Member\\MemberVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Greenhost\\Areas\\Manage\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:46:47.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T04:57:39.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "Greenhost\\Areas\\Manage\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T04:58:08.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250514045637_CreateMemberTable.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Migrations\\20250514045637_CreateMemberTable.cs",
+              "RelativeDocumentMoniker": "Greenhost\\Migrations\\20250514045637_CreateMemberTable.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Migrations\\20250514045637_CreateMemberTable.cs",
+              "RelativeToolTip": "Greenhost\\Migrations\\20250514045637_CreateMemberTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:56:37.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Program.cs",
+              "RelativeDocumentMoniker": "Greenhost\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Program.cs",
+              "RelativeToolTip": "Greenhost\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:23:05.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Greenhost\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Greenhost\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:40:23.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Greenhost\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Greenhost\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:12:41.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Greenhost.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Source\\Repos\\EXAM2\\Greenhost\\Greenhost.csproj",
+              "RelativeDocumentMoniker": "Greenhost\\Greenhost.csproj",
+              "ToolTip": "C:\\Users\\hp\\Source\\Repos\\EXAM2\\Greenhost\\Greenhost.csproj",
+              "RelativeToolTip": "Greenhost\\Greenhost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T07:51:52.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250514085316_CreateAppUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Migrations\\20250514085316_CreateAppUser.cs",
+              "RelativeDocumentMoniker": "Greenhost\\Migrations\\20250514085316_CreateAppUser.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Migrations\\20250514085316_CreateAppUser.cs",
+              "RelativeToolTip": "Greenhost\\Migrations\\20250514085316_CreateAppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:53:16.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemberVm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\ViewModels\\Member\\MemberVm.cs",
+              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\ViewModels\\Member\\MemberVm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\ViewModels\\Member\\MemberVm.cs",
+              "RelativeToolTip": "Greenhost\\Areas\\Manage\\ViewModels\\Member\\MemberVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:46:47.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "FileCreateExtentions.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Utils\\Extentions\\FileCreateExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Utils\\Extentions\\FileCreateExtentions.cs",
               "RelativeDocumentMoniker": "Greenhost\\Utils\\Extentions\\FileCreateExtentions.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Utils\\Extentions\\FileCreateExtentions.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Utils\\Extentions\\FileCreateExtentions.cs",
               "RelativeToolTip": "Greenhost\\Utils\\Extentions\\FileCreateExtentions.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:29:53.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:29:53.593Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Models\\Base\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Greenhost\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Models\\Base\\BaseEntity.cs",
               "RelativeToolTip": "Greenhost\\Models\\Base\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T04:51:45.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T04:51:45.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Models\\Member.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Models\\Member.cs",
               "RelativeDocumentMoniker": "Greenhost\\Models\\Member.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Models\\Member.cs",
               "RelativeToolTip": "Greenhost\\Models\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T04:51:22.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
-              "RelativeToolTip": "Greenhost\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
-              "ViewState": "AgIAANwAAAAAAAAAAAAcwOkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T04:47:27.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T04:51:22.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "DashBoardController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Controllers\\DashBoardController.cs",
-              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Controllers\\DashBoardController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Controllers\\DashBoardController.cs",
-              "RelativeToolTip": "Greenhost\\Areas\\Manage\\Controllers\\DashBoardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T04:47:17.496Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "Greenhost\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AgIAANwAAAAAAAAAAAAcwOkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T04:47:27.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "Greenhost\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:47:17.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\Member\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\Member\\Create.cshtml",
               "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Views\\Member\\Create.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\Member\\Create.cshtml",
               "RelativeToolTip": "Greenhost\\Areas\\Manage\\Views\\Member\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T05:41:53.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:41:53.417Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Greenhost\\Areas\\Manage\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T04:37:55.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T04:37:55.849Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Greenhost\\Areas\\Manage\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T04:37:41.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T04:37:41.448Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Greenhost\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Greenhost\\Greenhost\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EXAM2\\Greenhost\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Greenhost\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAIkAAAAAAAAAAAAQwJoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T04:37:28.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T04:37:28.981Z"
             }
           ]
         }

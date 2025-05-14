@@ -8,13 +8,13 @@ namespace Greenhost.Controllers
 {
     public class AccountController : Controller
     {
-        UserManager<AppUser> _userManager;
+        UserManager<AppUser> _usermanager;
         private readonly SignInManager<AppUser> _signInManager;
-        private readonly RoleManager<IdentityRole> _roleManager;
+        private readonly RoleManager<IdentityRole> _rolemanager;
 
-        public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<IdentityRole> rolemanager)
+        public AccountController(UserManager<AppUser> usermanager, SignInManager<AppUser> signInManager, RoleManager<IdentityRole> rolemanager)
         {
-            _userManager = userManager;
+            _usermanager = usermanager;
             _signInManager = signInManager;
             _rolemanager = rolemanager;
         }
@@ -38,7 +38,7 @@ namespace Greenhost.Controllers
                 UserName = registerVm.Username,
                 Email = registerVm.Email
             };
-            var result = await _userManager.CreateAsync(appUser, registerVm.Password);
+            var result = await _usermanager.CreateAsync(appUser, registerVm.Password);
             if (!result.Succeeded)
             {
                 foreach (var item in result.Errors)
@@ -100,7 +100,7 @@ namespace Greenhost.Controllers
         {
             foreach (var item in Enum.GetValues(typeof(UserRoles)))
             {
-                await _roleManager.CreateAsync(new IdentityRole()
+                await _rolemanager.CreateAsync(new IdentityRole()
                 {
                     Name = item.ToString()
                 });
